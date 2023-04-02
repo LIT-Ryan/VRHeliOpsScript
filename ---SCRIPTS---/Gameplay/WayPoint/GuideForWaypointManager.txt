@@ -1,0 +1,14 @@
+
+
+Guide for Dialog Waypoint 
+-----------------------------------------------------------------------------------
+if AutoFill
+1.enable AutoSelect
+2.Name the waypoint with objectName and copy&paste to get format " objectName (x) "
+3.first object will be " objectName (0) "
+4.Insert maxObject num, MaxObject = x + 1
+
+Note.
+add specific script into the game obejct to trigger event
+<example> add PlayAudioScript to object (3), and the audio will played when enter the collider of object (3).
+
